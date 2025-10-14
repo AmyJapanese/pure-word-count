@@ -1,0 +1,11 @@
+{
+	"id": "pure-word-count",
+	"name": "Pure word count",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A simple word and character count plugin with various exclusion options.",
+	"author": "AmyJapanese",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
